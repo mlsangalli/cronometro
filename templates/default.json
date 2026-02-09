@@ -1,0 +1,34 @@
+{
+  "templates": [
+    {
+      "name": "Quick Pass (Football)",
+      "sport": "football",
+      "category": "offense",
+      "prompt": "QB takes snap from shotgun. WR1 runs a 5-yard slant. WR2 runs a deep post to clear the safety. RB checks for blitz then flares to the flat as safety valve. QB reads the linebacker — if LB drops, throw the slant; if LB blitzes, dump to RB in the flat."
+    },
+    {
+      "name": "Pick and Roll (Basketball)",
+      "sport": "basketball",
+      "category": "offense",
+      "prompt": "PG brings ball up right side. PF sets a screen on PG's defender at the elbow. PG drives off the screen toward the basket. PF rolls to the rim. If PG's lane is open, attack the basket. If help comes, pass to PF on the roll. If both are covered, kick out to SG in the corner for a three-pointer."
+    },
+    {
+      "name": "Counter-Attack (Soccer)",
+      "sport": "soccer",
+      "category": "transition",
+      "prompt": "On turnover, CB plays long ball to striker. Winger sprints down the sideline for overlap. Midfielder pushes forward through the center as second option. Striker holds the ball and lays off to the winger or turns and shoots. If counter stalls, midfielder recycles possession and team reorganizes."
+    },
+    {
+      "name": "Quick Middle Attack (Volleyball)",
+      "sport": "volleyball",
+      "category": "offense",
+      "prompt": "Libero passes to setter in position 2. Setter fakes outside set and quick-sets to middle blocker running a 1-tempo attack in zone 3. Outside hitter approaches as decoy on the left antenna. If middle is blocked, setter dumps the ball over on second contact."
+    },
+    {
+      "name": "Rodízio com Pivô (Futsal)",
+      "sport": "futsal",
+      "category": "offense",
+      "prompt": "Fixo inicia jogada com passe para ala direita. Ala direita conduz e passa para o pivô. Pivô pivoteia e toca de volta para ala esquerda que chega de trás. Ala esquerda finaliza ou toca para fixo que subiu. Se a defesa fechar, pivô abre espaço com movimentação e bola volta para o fixo recomeçar."
+    }
+  ]
+}
